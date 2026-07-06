@@ -17,3 +17,7 @@ Objective : The primary objective of this project is to build an interactive, co
 * **State-Based Counting:** Master text analysis logic using flag variables to track transitions from whitespace to character zones for precise word and sentence extraction.
 * **Buffer-to-Buffer Reconstruction:** Practice building output strings step-by-step using secondary scratchpad arrays (`buffer`), a fundamental concept in secure C data handling.
 * **Robust Standard I/O Mixing:** Gain hands-on experience cleanly switching between multi-word line inputs (`fgets`) and single-word token gathering (`scanf`) by managing the standard input stream safely.
+
+OUTPUT :-
+
+<img width="923" height="548" alt="Image" src="https://github.com/user-attachments/assets/2cf3c7a2-9c64-4751-bc29-d6bce5184b75" />
